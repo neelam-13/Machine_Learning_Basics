@@ -4,6 +4,7 @@ This repository contains a collection of machine learning notebooks that I compl
 Although I did not design the assignments themselves, I worked through all implementations, visualizations, and analyses to deepen my understanding of core machine learning concepts.
 
 The notebooks span a wide range of foundational ML techniques, from unsupervised learning to ensemble methods.
+
 ---
 
 ## About
