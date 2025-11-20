@@ -74,8 +74,17 @@ Visualized how combining many simple trees leads to better stability and overall
 
 # Running the Project
 
-git clone <repo-url>
-cd <your-repo>
+
+To run the notebooks locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/neelam-13/Machine_Learning_Basics.git
+
+# Move into the project folder
+cd your-repo
+
+# Launch Jupyter Notebook
 jupyter notebook
 
 ---
