@@ -74,7 +74,6 @@ Visualized how combining many simple trees leads to better stability and overall
 
 # Running the Project
 
-
 To run the notebooks locally:
 
 ```bash
@@ -86,14 +85,14 @@ cd your-repo
 
 # Launch Jupyter Notebook
 jupyter notebook
-
----
+``` 
 
 # License
+
 This project uses the MIT License.
 
-The MIT License allows others to use, modify, and share the code (including commercially) as long as the license file is included.  
+The MIT License allows others to use, modify, and share the code (including commercially) as long as the license file is included.
 The code is provided without warranty.
 
-These notebooks were part of my Master’s coursework.  
+These notebooks were part of my Master's coursework.
 Please use them responsibly and do not submit them as academic work.
